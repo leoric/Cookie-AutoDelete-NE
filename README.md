@@ -1,7 +1,10 @@
-| CI                                                                                                                                                                                                                                                  | Security                                                                                                                                                                                                                | License                                                                                            | Platform                                                           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| [![CI](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/continuous-integration-workflow.yml/badge.svg?branch=main)](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/continuous-integration-workflow.yml) | [![CodeQL](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/codeql-analysis.yml) | [![License: MIT](https://img.shields.io/github/license/median-dxz/Cookie-AutoDelete-MV3)](LICENSE) | ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue)      |
-| ![Release](https://img.shields.io/badge/Release-Pending-lightgrey)                                                                                                                                                                                  | ![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Preparing-yellow)                                                                                                                                     | ![Coverage](https://img.shields.io/badge/Coverage-Pending-lightgrey)                               | ![Firefox](https://img.shields.io/badge/Firefox-Planned-lightgrey) |
+| CI | Security | Coverage | License |
+| :-: | :-: | :-: | :-: |
+| [![CI](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/continuous-integration-workflow.yml/badge.svg?branch=main)](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/continuous-integration-workflow.yml) | [![CodeQL](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/median-dxz/Cookie-AutoDelete-MV3/actions/workflows/codeql-analysis.yml) | ![Coverage](https://img.shields.io/badge/Coverage-Pending-lightgrey) | [![License: MIT](https://img.shields.io/github/license/median-dxz/Cookie-AutoDelete-MV3)](LICENSE) |
+
+| Release | Platform | Chrome Web Store | Firefox |
+| :-: | :-: | :-: | :-: |
+| [![Release](https://img.shields.io/badge/Release-v4.0.0-blue)](https://github.com/median-dxz/Cookie-AutoDelete-MV3/releases) | ![Manifest V3](https://img.shields.io/badge/Manifest-V3-blue) | [![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-v4.0.0-blue)](https://chromewebstore.google.com/detail/cookie-autodelete-next-edition/ohcmnioddbjkcobbpdeomphnimindmgh) | ![Firefox](https://img.shields.io/badge/Firefox-Planned-lightgrey) |
 
 # Cookie AutoDelete Next Edition
 
@@ -38,6 +41,10 @@ Independent community-maintained fork; not affiliated with or endorsed by the or
 > Microsoft Edge Chromium will be considered partially official as it is using the same code as Google Chrome for now.
 >
 > While you may be able to install this extension on other browsers (i.e. Varations of Edge, Chrome, Firefox, Android), there will be no official support from the authors and maintainers through Github Discussions and/or Issues.
+
+### via Chrome Web Store (Recommended for Chrome 🌟)
+
+- [Chrome Web Store](https://chromewebstore.google.com/detail/cookie-autodelete-next-edition/ohcmnioddbjkcobbpdeomphnimindmgh) (Unlisted)
 
 ### via Self Installation
 
