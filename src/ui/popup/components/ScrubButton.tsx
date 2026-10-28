@@ -30,10 +30,10 @@ const ScrubButton: React.FunctionComponent<OwnProps> = ({ hostname, tab }) => {
   const wrapperRef = useRef<HTMLDivElement>(null);
 
   return (
-    <div ref={wrapperRef} className="d-inline-block m-1">
+    <div ref={wrapperRef} className="d-block">
       <IconButton
         iconName="broom"
-        className="btn-warning"
+        className="btn-warning w-100"
         type="button"
         onClick={async () => {
           const result = await cleanSiteData('All', hostname, tab);
